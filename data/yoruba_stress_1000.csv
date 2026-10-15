@@ -1,0 +1,1001 @@
+item_id,category,context,target_token,trap_token,difficulty_score
+1,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,1.29
+2,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,2.08
+3,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,3.85
+4,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.51
+5,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,1.31
+6,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,1.99
+7,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,3.37
+8,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.92
+9,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.71
+10,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,3.32
+11,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,3.93
+12,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,3.71
+13,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,2.2
+14,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,4.65
+15,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,1.57
+16,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,1.55
+17,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,3.37
+18,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,3.83
+19,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.65
+20,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,1.48
+21,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,4.19
+22,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,3.28
+23,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,1.36
+24,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.98
+25,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,4.28
+26,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,2.57
+27,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,3.49
+28,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,1.79
+29,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,1.95
+30,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.73
+31,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,3.39
+32,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,3.12
+33,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,1.79
+34,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.17
+35,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.99
+36,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,4.23
+37,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,2.02
+38,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,4.1
+39,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.16
+40,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,4.49
+41,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,1.97
+42,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.62
+43,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,1.71
+44,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,2.09
+45,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,3.14
+46,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,4.43
+47,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.5
+48,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,3.03
+49,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,3.92
+50,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,1.75
+51,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,4.05
+52,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,3.35
+53,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.57
+54,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,3.1
+55,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,4.3
+56,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,3.65
+57,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,3.65
+58,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,3.9
+59,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,1.6
+60,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,1.77
+61,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,4.63
+62,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,4.7
+63,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,3.03
+64,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,4.33
+65,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,4.23
+66,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,3.39
+67,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,2.55
+68,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,3.14
+69,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,4.51
+70,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,2.96
+71,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,4.54
+72,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,2.06
+73,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,4.36
+74,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,1.51
+75,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,4.14
+76,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,3.96
+77,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,3.58
+78,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.79
+79,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,4.34
+80,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,4.67
+81,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,3.92
+82,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.77
+83,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,4.78
+84,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,2.78
+85,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.83
+86,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.01
+87,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,1.28
+88,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.03
+89,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,1.23
+90,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,2.02
+91,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,4.29
+92,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,3.05
+93,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.61
+94,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.14
+95,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.07
+96,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,4.11
+97,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,1.54
+98,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.48
+99,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.88
+100,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,3.62
+101,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,1.42
+102,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,4.08
+103,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,2.1
+104,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.13
+105,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,2.72
+106,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,2.87
+107,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,2.8
+108,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.55
+109,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,4.21
+110,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,4.53
+111,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,1.8
+112,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.93
+113,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,4.45
+114,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,2.56
+115,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.15
+116,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.23
+117,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,3.58
+118,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,1.76
+119,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,1.98
+120,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,3.29
+121,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.42
+122,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,1.41
+123,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,3.01
+124,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.77
+125,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.49
+126,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,1.45
+127,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,3.63
+128,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.65
+129,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.28
+130,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,3.43
+131,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,3.57
+132,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.34
+133,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,1.94
+134,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,2.06
+135,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,1.67
+136,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,2.85
+137,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,1.23
+138,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,1.46
+139,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.02
+140,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,4.56
+141,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,4.37
+142,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,2.23
+143,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,4.2
+144,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.4
+145,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.23
+146,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.28
+147,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,4.58
+148,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,2.15
+149,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,3.87
+150,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,2.18
+151,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.78
+152,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.67
+153,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.02
+154,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,4.46
+155,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,1.53
+156,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,4.19
+157,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,1.21
+158,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,3.49
+159,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,1.78
+160,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,3.19
+161,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,3.22
+162,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,1.47
+163,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,3.16
+164,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,3.3
+165,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,2.75
+166,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,2.31
+167,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,4.44
+168,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.66
+169,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,2.47
+170,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,4.38
+171,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,4.71
+172,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,4.53
+173,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,4.31
+174,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,4.37
+175,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,1.85
+176,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,4.02
+177,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,4.09
+178,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.16
+179,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,2.58
+180,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,4.29
+181,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,1.92
+182,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.46
+183,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.0
+184,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.63
+185,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,4.31
+186,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,2.46
+187,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.64
+188,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.39
+189,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,1.62
+190,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,1.84
+191,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,1.34
+192,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.44
+193,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,2.77
+194,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.62
+195,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.12
+196,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,1.21
+197,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,3.67
+198,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.51
+199,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,4.62
+200,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,3.44
+201,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,3.79
+202,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.03
+203,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.37
+204,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.2
+205,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.71
+206,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,3.64
+207,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,3.42
+208,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,2.66
+209,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,2.29
+210,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.75
+211,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,2.87
+212,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,3.63
+213,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.9
+214,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,3.57
+215,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.06
+216,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,1.54
+217,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.62
+218,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,4.1
+219,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,1.29
+220,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,4.74
+221,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,2.84
+222,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.79
+223,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.98
+224,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,1.73
+225,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,4.41
+226,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,4.0
+227,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,1.83
+228,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.87
+229,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.1
+230,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,2.84
+231,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,3.6
+232,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,3.34
+233,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,3.41
+234,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.74
+235,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.81
+236,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,3.88
+237,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.82
+238,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,4.22
+239,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.96
+240,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.94
+241,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.19
+242,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,3.77
+243,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.18
+244,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,4.41
+245,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,1.7
+246,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.58
+247,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,3.74
+248,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,2.69
+249,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,3.15
+250,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,1.42
+251,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.6
+252,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,4.28
+253,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.92
+254,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,2.28
+255,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,4.27
+256,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,3.14
+257,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,4.08
+258,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.96
+259,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,2.77
+260,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,2.6
+261,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,3.81
+262,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,4.51
+263,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.3
+264,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,3.33
+265,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,1.5
+266,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,1.69
+267,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,1.85
+268,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,2.56
+269,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.84
+270,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,3.94
+271,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.2
+272,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.11
+273,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,2.89
+274,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.39
+275,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,2.01
+276,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,4.01
+277,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,3.92
+278,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,1.92
+279,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,3.44
+280,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,1.65
+281,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,3.23
+282,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.87
+283,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.96
+284,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,3.38
+285,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,4.0
+286,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,4.67
+287,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,3.28
+288,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.27
+289,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.63
+290,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,1.47
+291,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,1.57
+292,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,4.26
+293,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,4.07
+294,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,2.45
+295,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,3.58
+296,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,3.02
+297,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,1.25
+298,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,4.16
+299,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,2.76
+300,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,3.49
+301,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,3.75
+302,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,1.83
+303,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,4.68
+304,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.42
+305,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,3.99
+306,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.77
+307,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,2.36
+308,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,4.19
+309,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,2.2
+310,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.08
+311,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,3.25
+312,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.41
+313,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,4.26
+314,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,2.96
+315,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,4.07
+316,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,2.21
+317,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.2
+318,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,4.61
+319,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,2.07
+320,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.96
+321,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.69
+322,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.81
+323,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,1.53
+324,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.66
+325,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.3
+326,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,2.9
+327,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.44
+328,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.39
+329,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.18
+330,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,2.03
+331,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.34
+332,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,4.62
+333,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,1.89
+334,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.2
+335,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,3.35
+336,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,4.2
+337,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,2.02
+338,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,2.29
+339,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.66
+340,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,4.71
+341,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.25
+342,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,3.5
+343,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,1.57
+344,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,3.27
+345,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.92
+346,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,1.86
+347,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,2.11
+348,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,1.61
+349,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,2.64
+350,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,3.28
+351,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,1.75
+352,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,1.51
+353,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,1.63
+354,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,3.38
+355,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.99
+356,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.82
+357,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.27
+358,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.3
+359,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,3.39
+360,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,4.61
+361,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.45
+362,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.58
+363,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,2.06
+364,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.47
+365,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,2.67
+366,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.25
+367,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.24
+368,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.73
+369,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,1.46
+370,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,4.53
+371,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.73
+372,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.01
+373,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,4.47
+374,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,1.46
+375,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,4.05
+376,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,2.78
+377,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,3.68
+378,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,4.59
+379,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,3.14
+380,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,1.49
+381,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,4.4
+382,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,3.37
+383,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,1.53
+384,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,4.8
+385,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.27
+386,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,2.89
+387,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,4.5
+388,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,4.79
+389,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,3.49
+390,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,4.69
+391,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.45
+392,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,2.36
+393,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,4.29
+394,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,2.68
+395,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,2.24
+396,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,4.13
+397,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.33
+398,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,2.33
+399,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,1.62
+400,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,4.31
+401,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,3.57
+402,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.86
+403,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,1.88
+404,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,3.44
+405,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,3.45
+406,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,1.93
+407,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,1.67
+408,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,2.78
+409,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,1.64
+410,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.76
+411,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.18
+412,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.67
+413,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,4.77
+414,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,2.86
+415,Tonal Traps,Ọ̀rọ̀ yìí nípa ilé tó jẹ mọ́ owó gẹ́gẹ́ bí àpẹrẹ.,owó,òwò,3.53
+416,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,2.99
+417,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.03
+418,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,2.7
+419,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,4.73
+420,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,2.84
+421,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,2.58
+422,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,3.89
+423,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,4.31
+424,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,3.98
+425,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.42
+426,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.16
+427,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,2.22
+428,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,4.21
+429,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,4.31
+430,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,3.14
+431,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,2.4
+432,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.56
+433,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,4.33
+434,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,3.26
+435,Tonal Traps,Ọ̀rọ̀ yìí nípa gbogbo tó jẹ mọ́ àgbà gẹ́gẹ́ bí àpẹrẹ.,àgbà,agba,4.28
+436,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,1.36
+437,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,3.74
+438,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,2.59
+439,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,2.98
+440,Tonal Traps,Ọ̀rọ̀ yìí nípa mẹ́ta tó jẹ mọ́ ọkọ gẹ́gẹ́ bí àpẹrẹ.,ọkọ,oko,1.65
+441,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,4.33
+442,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,1.56
+443,Tonal Traps,Ọ̀rọ̀ yìí nípa ṣe tó jẹ mọ́ ilé gẹ́gẹ́ bí àpẹrẹ.,ilé,ile,1.26
+444,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,2.68
+445,Tonal Traps,Ọ̀rọ̀ yìí nípa tí tó jẹ mọ́ ọwọ́ gẹ́gẹ́ bí àpẹrẹ.,ọwọ́,ọwọ,1.47
+446,Tonal Traps,Ọ̀rọ̀ yìí nípa púpọ̀ tó jẹ mọ́ bàbá gẹ́gẹ́ bí àpẹrẹ.,bàbá,baba,2.42
+447,Tonal Traps,Ọ̀rọ̀ yìí nípa wà tó jẹ mọ́ ẹ̀kọ́ gẹ́gẹ́ bí àpẹrẹ.,ẹ̀kọ́,eko,3.54
+448,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,4.27
+449,Tonal Traps,Ọ̀rọ̀ yìí nípa wá tó jẹ mọ́ orí gẹ́gẹ́ bí àpẹrẹ.,orí,ori,2.57
+450,Tonal Traps,Ọ̀rọ̀ yìí nípa ní tó jẹ mọ́ ọmọ gẹ́gẹ́ bí àpẹrẹ.,ọmọ,omo,3.46
+451,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.34
+452,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,3.42
+453,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,3.47
+454,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.79
+455,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,1.53
+456,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,3.94
+457,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,4.34
+458,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.8
+459,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.45
+460,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,2.37
+461,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,2.26
+462,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,2.75
+463,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,3.11
+464,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,3.65
+465,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,1.81
+466,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,3.39
+467,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.43
+468,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,2.99
+469,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.72
+470,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.5
+471,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,2.12
+472,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,4.44
+473,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.44
+474,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,3.17
+475,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,2.79
+476,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.76
+477,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.5
+478,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.69
+479,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.24
+480,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,4.8
+481,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.58
+482,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.26
+483,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,2.27
+484,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.26
+485,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.62
+486,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,3.24
+487,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,4.0
+488,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,4.48
+489,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.99
+490,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.99
+491,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,3.39
+492,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.99
+493,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,3.44
+494,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,3.92
+495,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,3.65
+496,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,3.46
+497,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,3.53
+498,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.04
+499,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,3.29
+500,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,1.67
+501,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,2.38
+502,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.83
+503,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,4.03
+504,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.11
+505,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.19
+506,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.49
+507,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.68
+508,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.89
+509,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.1
+510,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.67
+511,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,3.91
+512,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,4.3
+513,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,3.63
+514,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.68
+515,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,2.52
+516,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.25
+517,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.64
+518,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.62
+519,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.14
+520,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.16
+521,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.59
+522,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,2.9
+523,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,4.38
+524,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,2.38
+525,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,2.0
+526,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,3.49
+527,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.47
+528,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.54
+529,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,1.7
+530,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,2.3
+531,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.62
+532,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,4.39
+533,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,2.6
+534,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.61
+535,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,3.71
+536,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,2.71
+537,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,3.82
+538,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.56
+539,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.42
+540,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.32
+541,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.98
+542,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.62
+543,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.56
+544,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.52
+545,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.49
+546,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,2.19
+547,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,4.62
+548,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.53
+549,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,3.51
+550,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,4.7
+551,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,4.03
+552,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,4.76
+553,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.94
+554,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.95
+555,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,4.13
+556,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,2.38
+557,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,4.04
+558,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.21
+559,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,4.76
+560,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,2.1
+561,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,1.6
+562,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,1.67
+563,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.04
+564,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,3.32
+565,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,1.83
+566,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,1.66
+567,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.09
+568,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,1.43
+569,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.0
+570,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,3.34
+571,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.01
+572,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.36
+573,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,3.08
+574,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.52
+575,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,1.42
+576,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.25
+577,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.67
+578,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.76
+579,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.46
+580,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,2.36
+581,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,1.44
+582,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.45
+583,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,3.17
+584,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,2.57
+585,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,3.11
+586,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.02
+587,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.56
+588,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,1.61
+589,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,3.54
+590,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,3.8
+591,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,2.75
+592,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,2.69
+593,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,2.64
+594,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,1.54
+595,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,2.33
+596,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,2.55
+597,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,3.67
+598,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.44
+599,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,1.54
+600,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,3.88
+601,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.12
+602,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.42
+603,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,3.22
+604,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,1.64
+605,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.34
+606,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.33
+607,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,1.39
+608,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.36
+609,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.57
+610,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.97
+611,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.94
+612,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,2.46
+613,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,2.52
+614,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.27
+615,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.24
+616,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,3.41
+617,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,3.2
+618,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,4.54
+619,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.16
+620,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,2.18
+621,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.52
+622,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.22
+623,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,3.24
+624,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.45
+625,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,3.48
+626,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,1.53
+627,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.97
+628,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,2.83
+629,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,2.53
+630,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.37
+631,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,3.35
+632,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,1.76
+633,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.38
+634,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,2.18
+635,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.73
+636,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,2.79
+637,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.98
+638,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.61
+639,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.6
+640,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,3.64
+641,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.1
+642,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.36
+643,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.74
+644,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,1.23
+645,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.6
+646,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,3.95
+647,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,2.38
+648,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,2.99
+649,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.83
+650,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.12
+651,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,3.0
+652,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,4.1
+653,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,2.63
+654,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,1.35
+655,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,2.86
+656,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,4.3
+657,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,2.75
+658,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.75
+659,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,2.24
+660,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.28
+661,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.82
+662,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,2.86
+663,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,4.51
+664,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,2.77
+665,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,2.08
+666,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,2.64
+667,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,2.62
+668,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.88
+669,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,2.4
+670,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,1.47
+671,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,1.61
+672,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.9
+673,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,2.46
+674,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,4.13
+675,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,1.57
+676,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.91
+677,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.75
+678,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,1.47
+679,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.98
+680,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,3.94
+681,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.65
+682,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,3.51
+683,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,2.36
+684,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.34
+685,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.45
+686,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.47
+687,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.33
+688,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.03
+689,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,2.86
+690,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,1.4
+691,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.48
+692,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,3.41
+693,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,2.58
+694,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,3.2
+695,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,4.43
+696,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.47
+697,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,3.55
+698,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.38
+699,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.74
+700,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,2.82
+701,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.74
+702,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,3.02
+703,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,1.34
+704,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.78
+705,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.09
+706,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.77
+707,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.5
+708,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,2.67
+709,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.64
+710,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,4.04
+711,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.4
+712,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.54
+713,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.59
+714,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.81
+715,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,4.67
+716,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,4.34
+717,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.49
+718,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,1.71
+719,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,2.32
+720,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,3.71
+721,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.66
+722,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,4.58
+723,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,3.21
+724,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,4.05
+725,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,3.61
+726,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,4.79
+727,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.54
+728,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,2.72
+729,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.27
+730,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,1.85
+731,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,2.43
+732,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.89
+733,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,1.76
+734,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.24
+735,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,3.03
+736,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,4.21
+737,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.34
+738,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.36
+739,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,1.67
+740,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,1.76
+741,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,4.19
+742,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a lati kọ pẹ̀lú ọgbọ́n.",kọ,ka,4.11
+743,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,3.8
+744,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nínú gbé pẹ̀lú ọgbọ́n.",gbé,lọ,2.68
+745,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,3.79
+746,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,3.4
+747,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a nígbà pé pẹ̀lú ọgbọ́n.",pé,gbà,4.02
+748,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a fún fẹ́ pẹ̀lú ọgbọ́n.",fẹ́,mọ̀,3.12
+749,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a pẹ̀lú jẹ pẹ̀lú ọgbọ́n.",jẹ,mu,4.68
+750,Structural Divergence,"Nínú iṣẹ́ yìí, ó yẹ kí a sí gbọ́ pẹ̀lú ọgbọ́n.",gbọ́,rí,4.45
+751,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,2.52
+752,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,4.74
+753,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,3.97
+754,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,3.01
+755,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,4.68
+756,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,4.08
+757,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,4.34
+758,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,3.51
+759,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.2
+760,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,3.76
+761,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,4.26
+762,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,1.5
+763,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,2.18
+764,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,1.73
+765,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,1.53
+766,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,4.14
+767,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,4.55
+768,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,1.39
+769,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.55
+770,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,4.78
+771,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,2.01
+772,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,4.55
+773,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,3.54
+774,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,1.7
+775,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,4.5
+776,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,3.71
+777,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,3.93
+778,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,2.81
+779,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,4.46
+780,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,2.12
+781,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,3.18
+782,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,3.39
+783,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,1.6
+784,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,2.06
+785,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,1.37
+786,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,3.5
+787,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.85
+788,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,4.21
+789,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,3.35
+790,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,3.48
+791,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.07
+792,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,2.25
+793,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,3.41
+794,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,3.25
+795,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,3.59
+796,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,3.08
+797,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,1.44
+798,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,3.16
+799,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,3.19
+800,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,4.34
+801,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,3.49
+802,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,2.11
+803,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,2.49
+804,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,2.44
+805,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,3.57
+806,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,3.98
+807,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,3.92
+808,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,1.36
+809,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.42
+810,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,1.83
+811,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,2.87
+812,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,2.92
+813,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,4.12
+814,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,3.78
+815,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,1.33
+816,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,1.36
+817,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,4.39
+818,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,4.56
+819,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.63
+820,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.9
+821,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,3.91
+822,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,2.23
+823,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,4.32
+824,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,2.18
+825,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,2.77
+826,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,3.88
+827,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,2.42
+828,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,2.99
+829,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,2.52
+830,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.16
+831,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,3.82
+832,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,2.75
+833,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,3.16
+834,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,1.57
+835,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.58
+836,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,2.81
+837,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,2.73
+838,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,2.8
+839,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,1.35
+840,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.41
+841,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,2.19
+842,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,1.47
+843,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,2.66
+844,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,4.08
+845,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,1.78
+846,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,1.71
+847,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,3.64
+848,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,1.33
+849,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,2.05
+850,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,2.52
+851,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,4.62
+852,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,3.38
+853,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,2.82
+854,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,2.54
+855,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,3.27
+856,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.52
+857,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.54
+858,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,4.66
+859,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,3.85
+860,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,3.06
+861,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,1.62
+862,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.73
+863,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,4.79
+864,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.7
+865,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,1.92
+866,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,4.27
+867,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,1.82
+868,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,2.8
+869,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,4.12
+870,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.6
+871,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,1.43
+872,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.25
+873,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,4.26
+874,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,3.75
+875,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,3.5
+876,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.03
+877,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,4.75
+878,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,2.05
+879,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,1.29
+880,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,3.26
+881,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,4.09
+882,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,1.67
+883,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,1.44
+884,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,4.8
+885,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,2.92
+886,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,3.97
+887,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,1.47
+888,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.51
+889,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,2.88
+890,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.44
+891,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,3.5
+892,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,3.96
+893,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,2.76
+894,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,4.19
+895,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,1.75
+896,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,1.78
+897,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,2.01
+898,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,4.42
+899,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,2.1
+900,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,4.64
+901,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,1.65
+902,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.41
+903,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,3.01
+904,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,3.33
+905,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,1.76
+906,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,3.45
+907,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.42
+908,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,1.35
+909,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,1.49
+910,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,3.98
+911,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.54
+912,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.7
+913,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,1.31
+914,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,3.16
+915,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,4.64
+916,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,2.08
+917,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,2.66
+918,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,1.46
+919,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,1.77
+920,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,2.94
+921,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,2.42
+922,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,2.33
+923,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,2.35
+924,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,4.71
+925,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,3.94
+926,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,3.22
+927,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,2.07
+928,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,2.16
+929,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,1.71
+930,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,2.24
+931,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,4.31
+932,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,2.09
+933,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,4.13
+934,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,3.8
+935,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,3.95
+936,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,4.79
+937,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,3.0
+938,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,2.99
+939,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,4.6
+940,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.85
+941,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,1.97
+942,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,1.38
+943,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,2.98
+944,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,3.62
+945,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.13
+946,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,2.75
+947,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.82
+948,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,2.52
+949,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,1.38
+950,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,1.9
+951,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.24
+952,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,3.02
+953,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.21
+954,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,3.65
+955,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,1.66
+956,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,2.62
+957,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.21
+958,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.92
+959,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,3.37
+960,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,3.0
+961,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,1.34
+962,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,2.4
+963,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,3.07
+964,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,3.38
+965,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,1.7
+966,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.35
+967,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,4.77
+968,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,4.23
+969,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.41
+970,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,3.12
+971,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,3.23
+972,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,4.14
+973,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,2.39
+974,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,4.73
+975,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.31
+976,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,4.34
+977,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,1.3
+978,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,2.16
+979,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,4.02
+980,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,3.28
+981,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,1.38
+982,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,1.81
+983,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,3.8
+984,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,1.73
+985,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,2.07
+986,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,4.61
+987,Orthographic Noise,Lílò Yoruba fún ìdánwò èdè nínú ètò náà.,èdè,ede,1.89
+988,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,2.33
+989,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,2.69
+990,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,2.68
+991,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,4.51
+992,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,3.82
+993,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,1.7
+994,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,3.22
+995,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,2.92
+996,Orthographic Noise,Lílò púpọ̀ fún ìdánwò ọ̀rọ̀ nínú ètò náà.,ọ̀rọ̀,oro,2.33
+997,Orthographic Noise,Lílò ile fún ìdánwò àṣà nínú ètò náà.,àṣà,asa,2.85
+998,Orthographic Noise,Lílò kika fún ìdánwò ìwé nínú ètò náà.,ìwé,iwe,2.43
+999,Orthographic Noise,Lílò gbogbo fún ìdánwò èèyàn nínú ètò náà.,èèyàn,eeyan,3.63
+1000,Orthographic Noise,Lílò ara fún ìdánwò àlàáfíà nínú ètò náà.,àlàáfíà,alaafia,3.65

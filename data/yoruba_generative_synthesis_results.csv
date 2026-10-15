@@ -1,0 +1,3 @@
+Model,Test_Recon_MSE,SNR_dB,Training_Time_Sec,Speedup
+DIINA-Genesis,0.1566,1.94,3.79,0.14
+Baseline-AE,0.1212,3.05,0.53,1.00

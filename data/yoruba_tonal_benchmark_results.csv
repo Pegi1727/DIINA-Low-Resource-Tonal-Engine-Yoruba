@@ -1,0 +1,3 @@
+Model,Accuracy_Percent,Training_Time_Sec,Speedup_Factor,Native_Alignment_Score,Distorted_Penalty_Score
+DIINA,90.67,18.05,7.10,0.9999,-0.7313
+Transformer,91.00,128.16,1.00,NaN,NaN

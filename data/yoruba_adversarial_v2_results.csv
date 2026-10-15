@@ -1,0 +1,13 @@
+epsilon,system,n_test,accuracy,clean_accuracy,attack_success_rate,accuracy_drop_vs_clean,mean_abs_perturbation,protocol
+0.0,Baseline Transformer,2400,1.0,1.0,0.0,0.0,0.0,"white-box FGSM on respective classifier; synthetic tonal contours, 4 classes, L=40; seed=2162025"
+0.0,DIINA-Shield v2 (Adaptive-LIG v2.1),2400,1.0,1.0,0.0,0.0,0.0,"white-box FGSM on respective classifier; synthetic tonal contours, 4 classes, L=40; seed=2162025"
+0.05,Baseline Transformer,2400,1.0,1.0,0.0,0.0,0.049999,"white-box FGSM on respective classifier; synthetic tonal contours, 4 classes, L=40; seed=2162025"
+0.05,DIINA-Shield v2 (Adaptive-LIG v2.1),2400,1.0,1.0,0.0,0.0,0.049999,"white-box FGSM on respective classifier; synthetic tonal contours, 4 classes, L=40; seed=2162025"
+0.1,Baseline Transformer,2400,1.0,1.0,0.0,0.0,0.099998,"white-box FGSM on respective classifier; synthetic tonal contours, 4 classes, L=40; seed=2162025"
+0.1,DIINA-Shield v2 (Adaptive-LIG v2.1),2400,1.0,1.0,0.0,0.0,0.099996,"white-box FGSM on respective classifier; synthetic tonal contours, 4 classes, L=40; seed=2162025"
+0.15,Baseline Transformer,2400,0.99125,1.0,0.00875,0.00875,0.149993,"white-box FGSM on respective classifier; synthetic tonal contours, 4 classes, L=40; seed=2162025"
+0.15,DIINA-Shield v2 (Adaptive-LIG v2.1),2400,0.998333,1.0,0.001667,0.001667,0.149986,"white-box FGSM on respective classifier; synthetic tonal contours, 4 classes, L=40; seed=2162025"
+0.2,Baseline Transformer,2400,0.802917,1.0,0.197083,0.197083,0.199979,"white-box FGSM on respective classifier; synthetic tonal contours, 4 classes, L=40; seed=2162025"
+0.2,DIINA-Shield v2 (Adaptive-LIG v2.1),2400,0.9625,1.0,0.0375,0.0375,0.19996,"white-box FGSM on respective classifier; synthetic tonal contours, 4 classes, L=40; seed=2162025"
+0.3,Baseline Transformer,2400,0.115833,1.0,0.884167,0.884167,0.299848,"white-box FGSM on respective classifier; synthetic tonal contours, 4 classes, L=40; seed=2162025"
+0.3,DIINA-Shield v2 (Adaptive-LIG v2.1),2400,0.541667,1.0,0.458333,0.458333,0.299754,"white-box FGSM on respective classifier; synthetic tonal contours, 4 classes, L=40; seed=2162025"

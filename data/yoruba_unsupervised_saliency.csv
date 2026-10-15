@@ -1,0 +1,2 @@
+Task,Boundary_Precision_Pct,Boundary_Recall_Pct,Boundary_F1_Pct,Recon_MSE,Training_Latency_Sec
+Unsupervised_Acoustic_Discovery,60.61,93.69,73.60,0.9721,3.74
